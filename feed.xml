@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Your Feed Title</title>
+    <link>https://yourusername.github.io/rss-feed/</link>
+    <description>Your feed description</description>
+
+    <image>
+      <url>https://yourusername.github.io/rss-feed/image.png</url>
+      <title>Your Feed Title</title>
+      <link>https://yourusername.github.io/rss-feed/</link>
+    </image>
+
+    <item>
+      <title>First Test Item</title>
+      <link>https://example.com/first-item</link>
+      <description>This is a test entry.</description>
+      <pubDate>Sat, 13 Jun 2026 05:23:00 GMT</pubDate>
+      <guid>1</guid>
+    </item>
+
+  </channel>
+</rss>
