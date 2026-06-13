@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Your Feed Title</title>
+    <title>BoiseDev Feed</title>
     <link>https://yourusername.github.io/rss-feed/</link>
-    <description>Your feed description</description>
-
-    <image>
-      <url>https://yourusername.github.io/rss-feed/image.png</url>
-      <title>Your Feed Title</title>
-      <link>https://yourusername.github.io/rss-feed/</link>
-    </image>
+    <description>Local Boise-area news feed</description>
 
     <item>
-      <title>First Test Item</title>
-      <link>https://example.com/first-item</link>
-      <description>This is a test entry.</description>
-      <pubDate>Sat, 13 Jun 2026 05:23:00 GMT</pubDate>
-      <guid>1</guid>
+      <title>Coiled Wines to Close Garden City Tasting Room</title>
+      <link>https://boisedev.com/</link>
+      <description><![CDATA[Garden City’s Coiled Wines will close its tasting room early next month. 
+Owner Leslie Preston announced the closure on Instagram, noting that her winemaking days 
+are coming to an end. The tasting room will close on May 3, but Coiled wines will continue 
+to be available online and through local restaurants and shops. Coiled has been a key part 
+of Garden City’s wine scene since opening its production facility in 2017.]]></description>
+      <pubDate>Sat, 13 Jun 2026 05:43:08 GMT</pubDate>
+      <guid>coiled-wines-1781329388942</guid>
+
+      <enclosure url="https://boisedev.com/wp-content/uploads/2026/04/coiled-wines-set-to-close-garden-city-tasting-room-Screenshot-2026-04-2.png" type="image/png" />
     </item>
 
   </channel>
