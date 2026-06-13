@@ -1,42 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:atom="http://www.w3.org/2005/Atom">
-
+<rss version="2.0">
   <channel>
-    <title>Example News Feed</title>
+    <title>Mock Nunti Feed</title>
     <link>https://example.com/</link>
-    <description>A mock RSS feed for testing.</description>
-
-    <!-- Required self-link -->
-    <atom:link href="https://yourusername.github.io/rss-feed/feed.xml"
-               rel="self"
-               type="application/rss+xml" />
-
+    <description>Test feed for Nunti compatibility</description>
     <lastBuildDate>Sat, 13 Jun 2026 07:00:00 GMT</lastBuildDate>
     <pubDate>Sat, 13 Jun 2026 07:00:00 GMT</pubDate>
 
     <item>
-      <title><![CDATA[Test Article One]]></title>
+      <title>Test Article</title>
       <link>https://example.com/article1</link>
-      <description><![CDATA[This is a mock description for testing RSS compatibility.]]></description>
+      <description>This is a simple test item.</description>
       <pubDate>Sat, 13 Jun 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="false">test-guid-001</guid>
-      <enclosure 
-        url="https://via.placeholder.com/600x400.jpg"
-        type="image/jpeg"
-        length="0" />
-    </item>
-
-    <item>
-      <title><![CDATA[Test Article Two]]></title>
-      <link>https://example.com/article2</link>
-      <description><![CDATA[Another mock article to verify feed parsing.]]></description>
-      <pubDate>Sat, 13 Jun 2026 07:00:00 GMT</pubDate>
-      <guid isPermaLink="false">test-guid-002</guid>
-      <enclosure 
-        url="https://via.placeholder.com/800x600.jpg"
-        type="image/jpeg"
-        length="0" />
+      <guid>test-001</guid>
     </item>
 
   </channel>
