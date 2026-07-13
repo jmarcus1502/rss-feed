@@ -2,13 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>USAToday</title>
   <id>tag:usatoday</id>
-  <updated>2026-07-10T04:00:51.931Z</updated>
+  <updated>2026-07-13T04:00:41.518Z</updated>
   
+  <entry>
+    <title><![CDATA[A listening device in your neighborhood? It's a real controversy.]]></title>
+    <link href="https://www.usatoday.com/story/news/crime/2026/07/11/flock-gunshot-detector-privacy-concerns/90757260007/" />
+    <id>https://www.usatoday.com/story/news/crime/2026/07/11/flock-gunshot-detector-privacy-concerns/90757260007/</id>
+    <updated>2026-07-13T04:01:52.893Z</updated>
+    <summary type="html"><![CDATA[
+      <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/01/USAT/90766599007-1000001518.jpg?crop=1535,1535,x512,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
+      
+    ]]></summary>
+  </entry>
+
+  <entry>
+    <title><![CDATA[Witnesses dispute ICE account of immigrant's fatal shooting in Houston]]></title>
+    <link href="https://www.usatoday.com/story/news/nation/2026/07/10/ice-shooting-houston-lorenzo-salgado-araujo/90884045007/" />
+    <id>https://www.usatoday.com/story/news/nation/2026/07/10/ice-shooting-houston-lorenzo-salgado-araujo/90884045007/</id>
+    <updated>2026-07-13T03:59:50.439Z</updated>
+    <summary type="html"><![CDATA[
+      <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/10/USAT/90873713007-lorenzo-salgado-araujo.jpg?crop=1080,1079,x384,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
+      
+    ]]></summary>
+  </entry>
+
+  <entry>
+    <title><![CDATA[Concerned about FEMA? Call your congressperson.]]></title>
+    <link href="https://www.usatoday.com/videos/news/nation/2026/07/10/concerned-about-fema-call-your-congressperson/90883275007/" />
+    <id>https://www.usatoday.com/videos/news/nation/2026/07/10/concerned-about-fema-call-your-congressperson/90883275007/</id>
+    <updated>2026-07-13T04:01:10.831Z</updated>
+    <summary type="html"><![CDATA[
+      <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/10/USAT/90880024007-getty-images-1282387405.jpg?crop=3631,3630,x827,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
+      
+    ]]></summary>
+  </entry>
+
+  <entry>
+    <title><![CDATA[Missouri flash floods prompt search and rescue mission]]></title>
+    <link href="https://www.usatoday.com/story/news/nation/2026/07/10/missouri-flash-floods-leave-around-a-dozen-missing-from-campground/90880320007/" />
+    <id>https://www.usatoday.com/story/news/nation/2026/07/10/missouri-flash-floods-leave-around-a-dozen-missing-from-campground/90880320007/</id>
+    <updated>2026-07-13T03:59:02.810Z</updated>
+    <summary type="html"><![CDATA[
+      <img src="https://www.usatoday.com/gcdn/presto/2021/07/11/USAT/234eca10-2ae7-4f00-a647-be80855af5d7-MO-01.png?crop=2383,2383,x1504,y332&width=120&height=120&format=pjpg&auto=webp" /><br/>
+      
+    ]]></summary>
+  </entry>
+
+  <entry>
+    <title><![CDATA[4 key moments in the high-stakes Charlie Kirk murder hearing]]></title>
+    <link href="https://www.usatoday.com/story/news/crime/2026/07/10/charlie-kirk-murder-case-hearing-takeaways/90833777007/" />
+    <id>https://www.usatoday.com/story/news/crime/2026/07/10/charlie-kirk-murder-case-hearing-takeaways/90833777007/</id>
+    <updated>2026-07-13T04:00:24.567Z</updated>
+    <summary type="html"><![CDATA[
+      <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2025/12/11/USAT/87723047007-20251211-vpc-tyler-robinson-appears-in-court-thumb-reuters-pool-00-00-00-00-still-004.jpg?crop=1080,1079,x192,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
+      
+    ]]></summary>
+  </entry>
+
   <entry>
     <title><![CDATA[Feds issue dire warning about 'horrific' online plot against kids]]></title>
     <link href="https://www.usatoday.com/story/news/nation/2026/07/09/nihilistic-violent-extremists-internet-children-fbi/90860125007/" />
     <id>https://www.usatoday.com/story/news/nation/2026/07/09/nihilistic-violent-extremists-internet-children-fbi/90860125007/</id>
-    <updated>2026-07-10T03:59:54.323Z</updated>
+    <updated>2026-07-10T03:58:03.651Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/09/USAT/90864461007-20250203-t-165552-z-978964819-rc-22-ncadai-8-o-rtrmadp-3-usatrumpfbi.JPG?crop=2310,2309,x147,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
       
@@ -19,7 +74,7 @@
     <title><![CDATA[Woman diagnosed with cyclosporiasis shares what the sickness is like]]></title>
     <link href="https://www.usatoday.com/story/life/health-wellness/2026/07/09/mom-diagnosed-cyclosporiasis-symptoms-outbreak/90862629007/" />
     <id>https://www.usatoday.com/story/life/health-wellness/2026/07/09/mom-diagnosed-cyclosporiasis-symptoms-outbreak/90862629007/</id>
-    <updated>2026-07-10T03:59:51.687Z</updated>
+    <updated>2026-07-10T03:59:43.071Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/09/USAT/90863329007-galenn.jpg?crop=3600,3600,x688,y835&width=120&height=120&format=pjpg&auto=webp" /><br/>
       
@@ -30,7 +85,7 @@
     <title><![CDATA[Boarding school where Paris Hilton alleged abuse loses license]]></title>
     <link href="https://www.usatoday.com/story/news/nation/2026/07/09/provo-canyon-utah-boarding-school-paris-hilton-abuse-license/90862275007/" />
     <id>https://www.usatoday.com/story/news/nation/2026/07/09/provo-canyon-utah-boarding-school-paris-hilton-abuse-license/90862275007/</id>
-    <updated>2026-07-10T03:58:45.980Z</updated>
+    <updated>2026-07-10T03:59:30.790Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/09/USAT/90862962007-20240626-t-195527-z-50590181-mt-1-usatoday-23625960-rtrmadp-3-jun-262024-washingtondcusaparishiltontestifies.JPG?crop=1453,1454,x0,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
       
@@ -41,7 +96,7 @@
     <title><![CDATA[Man accused of cutting off genitals, uses them to set garage on fire]]></title>
     <link href="https://www.usatoday.com/story/news/crime/2026/07/09/fort-wayne-indiana-man-cuts-off-genitals-arson/90859980007/" />
     <id>https://www.usatoday.com/story/news/crime/2026/07/09/fort-wayne-indiana-man-cuts-off-genitals-arson/90859980007/</id>
-    <updated>2026-07-10T03:58:36.479Z</updated>
+    <updated>2026-07-10T04:00:06.123Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/09/USAT/90862808007-getty-images-182149518.jpg?crop=2048,2047,x460,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
       
@@ -52,7 +107,7 @@
     <title><![CDATA[US Olympian pleads not guilty in Reflection Pool damage case]]></title>
     <link href="https://www.usatoday.com/story/news/nation/2026/07/09/olympian-david-hearn-not-guilty-reflecting-pool-vandalism/90861519007/" />
     <id>https://www.usatoday.com/story/news/nation/2026/07/09/olympian-david-hearn-not-guilty-reflecting-pool-vandalism/90861519007/</id>
-    <updated>2026-07-10T03:58:54.124Z</updated>
+    <updated>2026-07-10T03:59:59.354Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/05/USAT/90814895007-20260626-t-215450-z-268109347-rc-2-s-1-mam-14-no-rtrmadp-3-usa-250-reflectingpool.JPG?crop=4000,3999,x1200,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
       
@@ -60,65 +115,10 @@
   </entry>
 
   <entry>
-    <title><![CDATA[Family says 6-year-old bitten by rabid bat outside Wisconsin home]]></title>
-    <link href="https://www.usatoday.com/story/news/nation/2026/06/30/6-year-old-girl-bitten-bat-rabies-wisconsin/90761060007/" />
-    <id>https://www.usatoday.com/story/news/nation/2026/06/30/6-year-old-girl-bitten-bat-rabies-wisconsin/90761060007/</id>
-    <updated>2026-07-01T04:00:52.310Z</updated>
-    <summary type="html"><![CDATA[
-      <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/30/PMJS/90755427007-cecelia-kale-2.JPG?crop=1541,1542,x0,y253&width=120&height=120&format=pjpg&auto=webp" /><br/>
-      A 6-year-old girl is undergoing rabies treatment after she was bitten by a rabid bat outside her home in Wisconsin, prompting local health officials to remind the public about rabies safety and avoiding contact with wild animals. Cecelia Kale was climbing a tree in her family’s front yard in Tigerton, Wisconsin, at around 8 p.m. local time on June 23 when the bat attacked her leg, her family told the Milwaukee Journal Sentinel, part of the USA TODAY Network. Tigerton is a rural village about 60 miles west of Green Bay, Wisconsin. The girl''s mother, Elizabeth Kale, said Cecelia climbs trees every day. Kale was sitting on the front porch when she noticed her daughter appeared frozen in fear. "She was only one branch up, and she was just frozen," Kale said. "I thought she was (trying to say), ''It''s a bee!'' ... but nothing was coming out right. That''s when we were like, ''OK, something''s wrong.''" Kale said Cecelia finally screamed that there was a bat on her leg. Kale, along with two of Cecelia''s older brothers, went running to help. Kale said her 11-year-old and 16-year-old sons knocked the bat off her and killed it. Kale and her husband took Cecelia to the emergency room and brought the bat for testing. Within 48 hours, they received confirmation from the Shawano-Menominee Counties Health Department that the bat tested positive for rabies, and Cecelia received the first of four shots as part of the rabies vaccine. Rabies is a viral disease that affects the central nervous system in mammals and is nearly always fatal if left untreated. Anyone potentially exposed to rabies should seek medical care immediately, health experts say. In a June 25 news release, the Shawano-Menominee Counties Health Department confirmed that a bat in Shawano County had tested positive for the rabies virus. Nick Mau, health officer with the health department, said the bat was both counties'' first confirmed case of rabies in 2026. The counties average about one confirmed case in wild animals every year. But Mau noted that it is not very common for those confirmed cases to be discovered through a bite to a human. More often, the health department is made aware of rabid animals through exposures to pets or bats found in a house that are brought in for testing. Mau advised people — especially those who live in areas with lots of wildlife — to be educated about rabies risks. "Educate children. We think a lot of animals are really cute, and they are, but just be mindful of approaching any wild animal," he said. "Safety first. Just assume that any animal is going to carry disease, and rabies is one of them. We can respect and watch wild animals from a distance." For the Kale family, the ordeal has been a reminder of important safety precautions. Kale said they''re now more aware of bats around their property and plan to get their barn cats vaccinated against rabies. She also encouraged any parents who have a similar scare with their children not to be afraid to ask doctors questions. She said Cecelia has been handling her rabies vaccine appointments well, despite the painful injections required. "She''s incredibly brave," Kale said. Rabies is a fatal but preventable viral disease that primarily affects the central nervous system, according to the Centers for Disease Control and Prevention. It can lead to severe brain damage and death in humans and some animals. Rabies is often found in bats, raccoons, skunks, and foxes, but any mammal can be infected. According to the CDC, the rabies virus is transmitted through direct contact with saliva through broken skin or mucous membranes in the eyes, nose, or mouth. Rabies can also be transmitted through direct contact with brain or nervous system tissue from an infected animal. Human cases are rare in the United States, where fewer than 10 deaths are reported each year, and at least 7 out of 10 of those are the result of exposure to an infected bat. Pets and people can be protected by vaccination, the Mayo Clinic says. People usually receive the vaccine after exposure, but those in high-risk situations may receive it before exposure. The rabies vaccine, if administered immediately after exposure, is nearly 100% successful at preventing the disease, according to the World Health Organization. While the disease is almost always fatal once symptoms begin, a few dozen people have survived the disease without the vaccine — the first known case of which happened in Fond du Lac, Wisconsin, in 2004.
-    ]]></summary>
-  </entry>
-
-  <entry>
-    <title><![CDATA[Supreme court deals a major blow to Trump on immigration]]></title>
-    <link href="https://www.usatoday.com/videos/news/nation/2026/06/30/supreme-court-deals-a-major-blow-to-trump-on-immigration/90761928007/" />
-    <id>https://www.usatoday.com/videos/news/nation/2026/06/30/supreme-court-deals-a-major-blow-to-trump-on-immigration/90761928007/</id>
-    <updated>2026-07-01T04:01:52.751Z</updated>
-    <summary type="html"><![CDATA[
-      <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/30/USAT/90758320007-20250515-t-142725-z-774624640-rc-2-eieab-6-t-0-y-rtrmadp-3-usacourttrumpbirthright.JPG?crop=3667,3666,x916,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
-      Inside the ruling that blocked Trump on birthright citizenship A 6-3 split sinks Trump’s citizenship order. Here’s how the justices ruled and why the 14th amendment was key. Beatty More Videos Can you visit the Reflecting Pool? See inside day 2 of Great American State Fair The Supreme Court just handed Trump a big win on immigration See mayflies swarm Ohio''s Put-In-Bay See aerial of Gracie the giraffe after being found Inside the Supreme Court fight over Trump’s Haiti rhetoric Ex-UFC fighter Dustin Poirier arrested at Atlanta airport. See bodycam Large smoke plumes, flames shoot from vehicle, sparking wildfire Trump calls passing the SAVE America Act a “National Emergency” Housing is just one affordability issue on the ballot in November How the Strawberry Moon got its nickname Trump presses his agenda; Congress pushes back Watch Next The iconic pop start and football player are finally tying the knot Taylor Swift is reportedly a mastermind at meticulous planning Is the Great American State Fair packed?
-    ]]></summary>
-  </entry>
-
-  <entry>
-    <title><![CDATA[Dallas to furlough workers as city faces $30M budget shortfall]]></title>
-    <link href="https://www.usatoday.com/story/news/nation/2026/06/30/dallas-city-employees-furlough-days-30-million-budget-shortfall/90759765007/" />
-    <id>https://www.usatoday.com/story/news/nation/2026/06/30/dallas-city-employees-furlough-days-30-million-budget-shortfall/90759765007/</id>
-    <updated>2026-07-01T03:59:40.895Z</updated>
-    <summary type="html"><![CDATA[
-      <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2025/07/04/SHSS/84466921007-1227728357.jpg?crop=3470,3469,x512,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
-      The City of Dallas has announced it will furlough city employees and executives for three days this year to help address a $30 million budget shortfall. The city, in a news release on Tuesday, June 30, set the furlough days as July 10, Sept. 4 and Sept. 28, calling them "actions necessary to maintain financial stability." “Furloughs are not our preferred solution; however, they enable us to reduce expenses, protect jobs and employee health benefits, and continue delivering services to our residents,” Dallas City Manager Kimberly Bizor Tolbert said in a statement. The city pointed to the 2026 budget, seeing a decrease in revenue while operating costs continue to increase. The city is facing a $30 million budget shortfall in 2026and a projected $51 million shortfall in 2027, the Dallas Morning News reports. According to the city, on the three dates, non-uniform employees funded by the city''s general fund will be required to participate in the furlough, and the days will be recorded as leave without pay. Employees will not be able to use sick leave, vacation time or comp time. The only employees exempted are police, firefighters, paramedics and 911 employees, as well as departments funded by the city''s enterprise fund, including but not limited to Dallas Water Utilities, Aviation, Convention and Event Services and Sanitation. The city also added that some employees of Fleet Services and Information Technology Services will be exempt based on operational needs. City executives who are non-uniform at or above the assistant director level — across general fund and internal service fund departments — will also be required to take two additional floating furlough days before Sept. 16 The city implemented several budget cuts in April, the release said, including a selective hiring freeze on non-uniform positions in general fund departments, eliminating non-uniform overtime except for "mission-critical needs" and suspending non-essential travel. "Despite the cost-saving actions taken, General Fund expenses continue to outpace revenue, prompting the announcement regarding furlough days to help ensure financial balance," the city''s release concluded. "The City will continue to closely monitor revenue and expenditure forecasts as FY26 progresses." Mateo Rosiles is the Texas Connect reporter for USA TODAY and its regional papers in Texas. Got a news tip for him? Email him at .
-    ]]></summary>
-  </entry>
-
-  <entry>
-    <title><![CDATA[Judge strikes down Pentagon press policy's escort requirement]]></title>
-    <link href="https://www.usatoday.com/story/news/nation/2026/06/30/judge-strikes-down-pentagon-press-policys-escort-requirement/90759382007/" />
-    <id>https://www.usatoday.com/story/news/nation/2026/06/30/judge-strikes-down-pentagon-press-policys-escort-requirement/90759382007/</id>
-    <updated>2026-07-01T04:00:39.315Z</updated>
-    <summary type="html"><![CDATA[
-      <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/04/16/USAT/89641126007-afp-2271031491.jpg?crop=683,682,x102,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
-      A federal judge on June 30 blocked the Pentagon from enforcing its policy requiring journalists to be escorted through the premises at all times. In his opinion, U.S. District Judge Paul Friedman said the country’s founders “believed that the nation’s security requires a free press and an informed people and that such security is endangered by governmental suppression of political speech.” “As our country celebrates its 250th anniversary this very week, that principle must not be abandoned now,” he wrote. The legal battle started when the Pentagon implemented a press policy in October 2025 that said journalists who "solicit" information not approved for public release could lose press access to the building. Experts told USA TODAY at the time that the policy raised First Amendment questions but said courts would ultimately have to decide if the policy was unconstitutional. The New York Times first sued over the matter in December. Friedman blocked the Pentagon from implementing the policy in March, which prompted the Department of War, formally the Department of Defense, to establish an interim policy that shuttered journalists’ longtime workspace and required the press to be escorted through the building. Pentagon spokesperson Sean Parnell said at the time that a “new and improved press workspace will be established in an annex facility outside the Pentagon, but still on Pentagon grounds, and will be available when ready.” Press freedom groups condemned the revamped policy and accused the Pentagon of violating the judge’s order. Friedman concurred in an April 9 ruling, saying the Pentagon "invoked slightly different language to achieve that same unconstitutional result." The New York Times filed a second lawsuit in May, saying the escort requirement was "unreasonable because it imposes significant burdens on reporters'' newsgathering" and "wholly unnecessary in view of the long history and tradition of unescorted press access." Friedman wrote in his June 30 opinion that The New York Times was likely to succeed in arguing that the escort requirement violates the First Amendment in part through being retaliatory. He said Pentagon officials’ public statements about mainstream news outlets – including Secretary Pete Hegseth’s remark comparing what he called the "legacy Trump-hating press" to biblical "Pharisees" – are “powerful evidence of the Department’s retaliatory motive” in implementing the policy. Parnell said the Pentagon would appeal the decision in a June 30 post on X. “Unescorted access to the Pentagon allowed journalists to observe activity patterns and develop relationships that contributed to repeated unauthorized disclosures of operational plans and intelligence,” he said. “The court’s order effectively restores that risky environment at a time when protecting our military’s secrets is more critical than ever.” New York Times spokesperson Charlie Stadtlander said Friedman’s order “reaffirms the First Amendment rights of the press to cover the Pentagon without restrictions designed to prevent the public from knowing what the military is doing.” "We are pleased that the district court has, once again, put a stop to the Department’s continued unconstitutional efforts to restrict independent reporting about the Pentagon," Theodore J. Boutrous, Jr. of Gibson Dunn, the law firm representing The New York Times in the case, said. "The Department’s Interim Policy, including its ''escort requirement,'' is exactly what the district court found it to be: retaliation against the Times for exercising its First Amendment rights." BrieAnna Frank is a First Amendment reporter at USA TODAY. Reach her at . USA TODAY''s coverage of First Amendment issues is funded through a collaboration between the Freedom Forum and Journalism Funding Partners. Funders do not provide editorial input.
-    ]]></summary>
-  </entry>
-
-  <entry>
-    <title><![CDATA[Seattle's cream cheese and onion hot dog tops New York Times rankings]]></title>
-    <link href="https://www.usatoday.com/story/news/nation/2026/06/30/new-york-times-ranks-seattle-dog-the-best-in-america/90757876007/" />
-    <id>https://www.usatoday.com/story/news/nation/2026/06/30/new-york-times-ranks-seattle-dog-the-best-in-america/90757876007/</id>
-    <updated>2026-07-01T03:58:38.603Z</updated>
-    <summary type="html"><![CDATA[
-      <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/30/PBKS/90759028007-seattle-stand.jpg?crop=768,767,x102,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
-      Seattleites will have many things to celebrate this weekend: nice weather, America''s 250th birthday and the city''s famous hot dog toppings. In a video published on Monday, the New York Times Wirecutter team compared eight famous hot dog styles from around the country. To pick the top dog, Wirecutter''s Katie Quinn and Kathleen Squires joined forces with chef José Andrés founder of World Central Kitchen, to judge the regional specialties. Here''s what the NYT team put on their Seattle dog: potato bun, cream cheese, butterflied beef frank, carnalized onions, siracha, spicey brown mustard and sliced jalapenos. The Seattle Dog outlasted seven other competitors in a bracket-style taste test ahead of a national holiday closely associated with American classic. The Seattle Dog won all three votes in the first round of the bracket against the West Virginia dog, and then won unanimously again against the Kansas City dog. "What the cream cheese does very well is navigate well into the sweetness of the onion, the mustard and the jalapeno. Almost becomes a diplomat the brings everything together," Andrés said in the video. "Kind of like the José Andrés of the hot dog world," Quinn added. In the finals, the Seattle Dog faced off against the Cincinnati style, edging out the cheese-topped hot dog 2-1 to take home the title of best hot dog style. Zachary Fletcher is a trending news reporter with USA TODAY Network''s Washington state team. Keep up with him on X (@zdfletch), BlueSky (@zfletcher.bsky.social) or reach him at .
-    ]]></summary>
-  </entry>
-
-  <entry>
     <title><![CDATA[Do these stories say red, white and blue?]]></title>
     <link href="https://www.usatoday.com/videos/news/nation/2026/07/03/do-these-stories-say-red-white-and-blue/90789193007/" />
     <id>https://www.usatoday.com/videos/news/nation/2026/07/03/do-these-stories-say-red-white-and-blue/90789193007/</id>
-    <updated>2026-07-04T03:59:07.865Z</updated>
+    <updated>2026-07-04T04:01:02.484Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/02/USAT/90781451007-getty-images-524170481.jpg?crop=4895,4896,x0,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
       We hit the road for USA 250 USA TODAY reporters retrace iconic American journeys for the nation’s 250th and what they found says a lot about who we are now. Kaely Monahan More Videos Supreme court deals a major blow to Trump on immigration The iconic pop start and football player are finally tying the knot Taylor Swift is reportedly a mastermind at meticulous planning Is the Great American State Fair packed? See inside day 2 of Great American State Fair The Supreme Court just handed Trump a big win on immigration See mayflies swarm Ohio''s Put-In-Bay See aerial of Gracie the giraffe after being found Inside the Supreme Court fight over Trump’s Haiti rhetoric Ex-UFC fighter Dustin Poirier arrested at Atlanta airport. See bodycam Large smoke plumes, flames shoot from vehicle, sparking wildfire Watch Next The courage behind the Underground Railroad Here''s how to see the Milky Way this July 4 weekend and beyond Trump dealt major blow with birthright citizenship ruling
@@ -129,7 +129,7 @@
     <title><![CDATA[Study finds AI shows bias against some faiths, lacks spiritual answers]]></title>
     <link href="https://www.usatoday.com/story/news/nation/2026/07/02/ai-lack-religion-show-faith-bias/90747041007/" />
     <id>https://www.usatoday.com/story/news/nation/2026/07/02/ai-lack-religion-show-faith-bias/90747041007/</id>
-    <updated>2026-07-04T04:00:00.447Z</updated>
+    <updated>2026-07-04T04:00:37.623Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2025/08/14/USAT/85661055007-usatsi-22406318.jpg?crop=1674,1671,x176,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
       Does God exist? Apparently not, or at least very little, in the world of artificial intelligence. A multi-university research group has found AI models largely omit religion when asked about ethical or existential concerns, such as how to save one’s marriage from infidelity, whether to forgive an unfaithful friend, how to remain calm during difficult times or what makes people truly happy and free. “We are seeing a systematic pattern of religious omissions,” said David Wingate, academic lead for the Consortium for Evaluation of Faith and Ethics in AI (CEFE-AI) and an associate professor of computer science at Brigham Young University. “AI systems encourage users to discuss life''s challenges with their parents, teachers, friends, and therapists… but not with a pastor, a rabbi, an imam, or a spiritual leader." The group also found that when faced with questions about faith exploration, AI models generally favor certain religions and disapprove of others: Nearly every model showed a positive bias toward Catholicism and a negative one toward Jehovah’s Witnesses. While such patterns are likely unintentional, the researchers said they highlight the challenges of representing diverse belief systems consistently. They also raise broader questions about how AI systems understand and may ultimately shape religious perspectives. The consortium is a cross-faith collaboration of researchers at Brigham Young, a Mormon institution in Provo, Utah; the University of Notre Dame, a Catholic school in South Bend, Indiana; Yeshiva University, a Jewish institution in New York City; and Baylor University, a Baptist school in Waco, Texas. "More than any previous technology, AI influences public discourse and shapes perceptions," said Msgr. John Paul Kimes, professor of the practice at Notre Dame Law School. "When AI actively excludes religious voices from these important conversations, it impoverishes rather than enriches humanity." CEFE-AI analyzed more than a dozen leading AI models, including OpenAI''s GPT 5.5, Anthropic''s Claude 4.7, and Google''s Gemini 3.1. When asked specifically about religion, the models provide neutral, respectful replies, Wingate said. But when prompted with questions about grief, personal challenges and major life decisions, AI systems often default to secular framing and avoid religion altogether – even when, according to consortium research, most people expect answers to such questions to include religious perspectives. "People see religion as significant across many real-world ethical questions," said Paul Martens, an associate professor of ethics at Baylor. "Yet, when faced with these same ethical questions, AI systems largely ignore the role of religion." Wingate guesses that in a still-emerging field, tech companies have not yet grappled with the question of the role religion should play in AI. But with religion a consequential force in so many people’s lives, he said, companies should be more intentional about integrating it into their systems. Christians make up more than 60% of the U.S. population, with Judaism, Islam and other faiths comprising another 7%, according to the Pew Research Center. The center also found religiously unaffiliated people represent about 29% of the U.S. and nearly a quarter of people worldwide. CEFE-AI researchers also examined what they call “conversion bias” – that is, AI’s responses to questions such as whether a Buddhist should convert to Islam or whether a Catholic should become a Jew or an agnostic. “Our expectation was that the conversion benchmark would show models to be neutral and symmetrical in their guidance,” said Nancy Fulda, an associate professor of computer science at Brigham Young. Instead, the models showed clear, consistent bias, subtly steering users toward some faiths and away from others. Catholicism was largely presented as favorable; Jehovah’s Witnesses, not so much. Anthropic and Meta AI models displayed the least bias among all tested, according to BYU. Meanwhile, Grok showed the strongest biases, highly favoring Catholics and Protestants while showing an aversion for Jehovah’s Witnesses, Baha’i and Hindus. Ben Hurlbut, an associate professor of life sciences at Arizona State University in Tempe, said he wasn’t surprised by the findings. AI systems, Hurlbut said, “regurgitate in digital form what they’ve vacuumed up,” and concerns about bias have dogged AI since its inception. For him, the issue isn’t that the biases exist; it’s the idea that people believe AI – which he describes as “a calculator putting together words” – can achieve defect-free neutrality. “It’s like a pureed version of religion,” Hurlbut said. “What the models should say is, I’m not qualified to guide you on religious matters, but here’s a list of texts you may want to consult or some people you can talk to. AI models are playing with something that’s not in their territory and that they’re fundamentally incompetent at dealing with.” Still, Wingate said, people do turn to AI with moral, ethical and religious questions. Research indicates 72% of teens have used AI chatbots acting as confidants ‒ and that some young people adolescents rely on them for mental health advice.
@@ -140,7 +140,7 @@
     <title><![CDATA[Tesla driver charged with manslaughter after crash into Texas home]]></title>
     <link href="https://www.usatoday.com/story/news/nation/2026/07/02/tesla-autopilot-texas-crash-manslaughter/90790202007/" />
     <id>https://www.usatoday.com/story/news/nation/2026/07/02/tesla-autopilot-texas-crash-manslaughter/90790202007/</id>
-    <updated>2026-07-04T03:59:35.871Z</updated>
+    <updated>2026-07-04T03:58:13.098Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/22/USAT/90645550007-727863905-1526913722225661-1916072049745917212-n.jpg?crop=1733,1732,x157,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
       A Texas man has been charged with manslaughter after his Tesla crashed into a home last month while allegedly in self-driving mode, killing a 76-year-old woman inside the residence, authorities said. Michael Butler, 44, was arrested on July 1 and booked into the Harris County Jail in connection with the death of Martha Avila, according to Harris County Sheriff Ed Gonzalez. A magistrate set Butler''s bond at $150,000, and he remained in custody on July 2, online jail records show. Butler was driving a Tesla Model 3 at around 8 p.m. local time on June 19 when he failed to stay in a single lane, left the roadway, and crashed through the front of a two-story brick residence in Katy, Texas, a Houston suburb, the sheriff''s office said in a news release. Butler told authorities the vehicle was operating with an automated driving assistance system engaged at the time of the crash, according to the sheriff''s office. The vehicle had entered the residence "at a high rate of speed" and struck Avila, the sheriff''s office said. She was airlifted to a local hospital and later died from her injuries. The sheriff''s office added that Butler showed no signs of intoxication during the incident and cooperated with authorities. Surveillance footage captured by a camera on the home, shared by Avila''s daughter Jennifer Barbour on Facebook, showed the vehicle flying off the road before striking the residence. "She was the best grandma anyone could''ve asked for. A second mother for my kids and a blessing," Barbour previously told USA TODAY. "We are heartbroken." The incident is under investigation by local authorities, the National Transportation Safety Board, and the National Highway Traffic Safety Administration (NHTSA). The charge comes after Avila''s family filed a wrongful-death lawsuit against Butler and Tesla, alleging the crash resulted from negligence and a "design defect" of the vehicle. The lawsuit claims that the design defects in Butler''s vehicle and in Tesla''s Autopilot and Full Self-Driving systems included the "failure to adequately monitor and determine driver engagement, the failure to adequately detect stationary objects and roadway terminations in the Vehicle''s path, and Sudden Unintended Acceleration." The suit cited a 2023 analysis of NHTSA data from The Washington Post that "identified at least 17 fatal incidents linked to Tesla’s Autopilot." The analysis also "found that by mid-2023, Tesla’s Autopilot system had been involved in at least 736 crashes since 2019." The complaint, filed by Jennifer Barbour and her husband, Justin Barbour, in Harris County District Court on June 23, seeks more than $1 million in damages. Tesla has disputed claims that the vehicle''s self-driving system was responsible for the collision. After the crash, Elon Musk, the founder and CEO of Tesla, wrote on social media that Butler''s description of events "makes no sense." "FSD (full self-driving) drives slowly through neighborhood streets and this was a high-speed crash!" Musk said in a post on X. In a separate post on X, Ashok Elluswamy, who leads Tesla''s artificial intelligence software, alleged that the vehicle''s self-driving feature was manually overridden. "In this case, the driver manually overrode self-driving by pressing the accelerator all the way to 100% of the accel pedal in this residential area," Elluswamy alleged. "They reached a speed of 73 mph during the crash, and had the accelerator pressed even after the crash." Tesla''s driver-assistance systems have drawn scrutiny over the years following various incidents, multiple lawsuits, and federal safety investigations. In 2023, the NHTSA announced a recall of more than 2 million Tesla vehicles over concerns with the Autopilot feature. The following year, federal investigators launched a probe into whether the recall had been adequate, citing 20 crashes involving Tesla vehicles with updated software. Contributing: Greta Cross and Mike Snider, USA TODAY
@@ -151,7 +151,7 @@
     <title><![CDATA[New InfoWars launches under The Onion. What to know]]></title>
     <link href="https://www.usatoday.com/story/news/nation/2026/07/02/the-onion-infowars-alex-jones/90789536007/" />
     <id>https://www.usatoday.com/story/news/nation/2026/07/02/the-onion-infowars-alex-jones/90789536007/</id>
-    <updated>2026-07-04T03:58:08.366Z</updated>
+    <updated>2026-07-04T03:58:52.311Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/02/USAT/90789578007-f-59-f-6058-c-7444-ac-58-a-1-c-1288-b-45-abb-2-e.png?crop=820,819,x131,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
       The Onion is pressing ahead with its takeover of InfoWars, the conspiracy-laden media empire formerly owned by far-right provocateur Alex Jones. The satirical news site will debut its initial slate of programming just in time for America’s 250th birthday celebration, despite an ongoing legal battle, alongside plans to donate more than $100,000 to the families affected by the 2012 mass shooting at Sandy Hook Elementary School. Here’s what you should know about the new InfoWars ahead of its debut. The Onion announced that it will premiere its initial slate of programming –– including two shows, “Emergency with Tim Heidecker” and “The Jim Haggerty Show” –– on July 2 at 8 p.m. ET. Onion CEO Ben Collins told USA TODAY that the launch will be “explosive,” and described it as “the most important thing that has ever happened.” The shows will be streaming on TheOnion.info and @RealInfoWars’ profiles on YouTube, Twitch, Instagram, Facebook and BlueSky, as well as “all gas station TVs throughout the continental United States,” Collins said. One of the shows will feature Tim Heidecker, who rose to prominence in the early 2000s on a unique brand of fringe, outsider comedy. The former star of “Tom Goes to the Mayor” and “Tim and Eric Awesome Show, Great Job!” was brought on as the new InfoWars’ creative director. He has already created content for the brand, adopting the gravelly voice and absurdist, conspiratorial identity Jones was known for. "There are a lot of talented people making great work with very little support," Heidecker said. "This is a chance to build a place for ambitious, specific, internet-native comedy and to make something genuinely new out of a very broken piece of media history. The premiere is just the beginning." According to The Onion, over time the new initiative will move away from "parodying the grift and grievance of platforms like InfoWars," and instead focus on a "broader comedy ecosystem rooted in curation, talent development, and internet-native storytelling." Alongside the debut of its new shows, The Onion also announced plans to donate more than $100,000 to the families who were affected by the Sandy Hook mass shooting. That event is at the epicenter of The Onion’s takeover of InfoWars, after Jones used his platform to promote baseless conspiracy theories that the shooting was staged and those involved were “crisis actors,” messaging that led to years of harassment and threats against the survivors. In 2022, Jones lost a defamation suit brought by the Sandy Hook families. He was ordered to pay a $1.3 billion judgment, which the sale of InfoWars was supposed to help cover. Jones has not yet paid the families any of the money that they are owed. A request for comment sent to Jones’ new media company was not returned. "From the beginning, this has been about the Sandy Hook families and making sure something better comes from a platform that caused so much harm," Collins said. "We got into this because we saw an opportunity to take one of the most evil things on the internet and turn it into something funny, creative, and actually useful.” To help raise money for the Sandy Hook families, The Onion launched an initial online iteration of its InfoWars moniker, hosted under the company’s larger website. It contains various links to products that parody the bogus supplements and metaphysical cure-alls that Jones made a career hawking, such as Demon Guard Holy Protection Patches (basically, band-aids in the shape of a cross), Pure-O Oxygen Capsules, a “Learn to Float” kit, and tablets that promise to turn urine into gold. Alongside the farcical goods is legitimate InfoWars merchandise including hats, glasses, sweatshirts and more. Sales from that will go to supporting the Sandy Hook families, who also helped develop The Onion’s vision for the new initiative. “The story isn''t really about InfoWars anymore,” Collins said. “It''s about what happens when you take a platform that was built around bullsh-t and fear and turn it into something that supports funny, human stuff instead. At a moment when so much of media is shrinking, we''re investing in comedians, creators, and original programming because we think people want something better, made by people." Collins added, “As for that Alex guy you asked about, I''ve never heard of him.” Drew Pittock covers national trending news for USA TODAY. He can be reached at .
@@ -162,7 +162,7 @@
     <title><![CDATA[Olympic canoeist indicted after allegedly tampering with Reflecting Pool]]></title>
     <link href="https://www.usatoday.com/story/news/nation/2026/07/02/canoeist-david-hearn-reflecting-pool-indicted/90787034007/" />
     <id>https://www.usatoday.com/story/news/nation/2026/07/02/canoeist-david-hearn-reflecting-pool-indicted/90787034007/</id>
-    <updated>2026-07-04T04:01:50.859Z</updated>
+    <updated>2026-07-04T03:59:04.273Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/02/USAT/90787082007-getty-images-1338681.jpg?crop=2399,2400,x0,y363&width=120&height=120&format=pjpg&auto=webp" /><br/>
       An Olympic canoeist was indicted by a grand jury on a felony destruction of property charge for allegedly vandalizing the Lincoln Memorial Reflecting Pool, which President Donald Trump''s administration has recently renovated. David Hearn was arrested by U.S. Park Police on June 19 and initially charged with misdemeanor destruction of government property, USA TODAY previously reported. In the July 2 indictment in DC Superior Court, Hearn is accused of "maliciously" breaking or destroying lining material on the bottom of the Reflecting Pool and causing more than $1,000 of damage. "Today is about accountability for damaging a national resource, a national treasure," Washington, DC U.S. Attorney Jeanine Pirro said at a July 2 press conference. The charge carries a maximum sentence of 10 years in prison. Pirro accused Hearn of ripping a piece of recently installed sealant on the bottom of the Reflecting Pool. She said Hearn admitted to reaching down into the pool, and that National Park Service employees saw him removing the bottom liner with both hands. When an employee told Hearn to stop, he allegedly shouted at her that she cared too much about the pool and asked her why she cared since it wasn''t her pool, according to Pirro. Lawyers for Hearn denied the allegations following his arrest, accusing Trump''s administration in a statement of treating ordinary conduct as criminal. USA TODAY has also reached out to Hearn for comment. "This indictment reflects the administration’s effort to shift blame for their own failures. On the eve of our nation''s Independence Day, Americans should be deeply concerned by the misuse of government power against an ordinary citizen based on a concocted narrative," the lawyers, including former Ambassador Norm Eisen, a founder of the Democracy Defenders Fund, said in the statement. Following his arrest last month, Hearn told the Washington Post he reached into the Reflecting Pool and was able to "grab" the end of a "flapping piece" of a substance in the water but didn''t remove it. “I didn’t vandalize anything,” the 67-year-old man told the outlet at the time. “I didn’t destroy or break or peel anything. By the time I realized what was going on, I was being put in handcuffs.” Hearn''s arrest was one of several that Trump touted last month, after he accused "vandals" of being responsible for damaging the Reflecting Pool, resulting in ruinous algae blooms and peeling paint. The accusations came after a $14.7 million renovation. A top National Park Service official said in a sworn declaration before a federal court last month that the pool had been vandalized using a "sharp knife or razor." The park service''s deputy director for operations, Frank Lands, said in his sworn statement that the Reflecting Pool liner the Trump administration ordered redone ahead of the nation’s 250th anniversary was deliberately cut. Lands’ statement gave no indication of how park officials concluded the liner was cut using a knife of some kind. Asked by a reporter about others who have also been arrested for incidents at the Reflecting Pool, Pirro on July 2 said her office has about a half dozen other cases, including alleged misdemeanors and potential violations that fall below misdemeanors. While the Trump administration insists the issues are the work of vandals, algae blooms in the Reflecting Pool are nothing new. Historical records show algae has long been a recurring issue in the pool. After a $34 million renovation in 2012, the water turned into an "icky sea of algae" about a week after the pool was filled, USA TODAY previously reported. Workers were seen skimming the surface of the pool in the end nearest the World War II Memorial. Algae blooms have plagued "every pool reopening since 1922," according to a statement the Department of the Interior provided to USA TODAY. The pool is approximately 2,000-feet-long, running from the Lincoln Memorial toward the Washington Monument on the National Mall. Hearn’s canoe career spanned several decades between the 1970s and 2000s, culminating in stints at the 1992 Olympic Games in Barcelona, the 1996 Olympics in Atlanta and Sydney’s 2000 Olympic Games. His best performance was a ninth-place finish in Atlanta. Outside of the Olympics, Hearn has earned 13 medals, including eight gold and five silver. Contributing: Michael Loria, Michelle Del Rey, James Powel USA TODAY; Reuters Drew Pittock covers national trending news for USA TODAY. He can be reached at .
@@ -173,7 +173,7 @@
     <title><![CDATA[Body found during search for missing Mississippi 18-year-old]]></title>
     <link href="https://www.usatoday.com/story/news/nation/2026/07/06/body-found-search-missing-nolan-wells/90820950007/" />
     <id>https://www.usatoday.com/story/news/nation/2026/07/06/body-found-search-missing-nolan-wells/90820950007/</id>
-    <updated>2026-07-07T03:58:42.459Z</updated>
+    <updated>2026-07-07T03:59:28.050Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/06/PJAM/90819230007-nolan-wells.jpg?crop=944,945,x0,y204&width=120&height=120&format=pjpg&auto=webp" /><br/>
       
@@ -184,7 +184,7 @@
     <title><![CDATA[4 killed, including police sergeant, 4 other officers shot in Ohio break-in]]></title>
     <link href="https://www.usatoday.com/story/news/crime/2026/07/06/rittman-ohio-shooting-police/90819227007/" />
     <id>https://www.usatoday.com/story/news/crime/2026/07/06/rittman-ohio-shooting-police/90819227007/</id>
-    <updated>2026-07-07T03:58:03.416Z</updated>
+    <updated>2026-07-07T04:01:12.461Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/06/NABJ/90820945007-20260706-102857.jpg?crop=3000,2999,x500,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
       
@@ -195,7 +195,7 @@
     <title><![CDATA[Paul Pelosi, Nancy Pelosi's husband, suspected of hit-and-run in California]]></title>
     <link href="https://www.usatoday.com/story/news/crime/2026/07/06/paul-pelosi-hit-and-run-california/90818791007/" />
     <id>https://www.usatoday.com/story/news/crime/2026/07/06/paul-pelosi-hit-and-run-california/90818791007/</id>
-    <updated>2026-07-07T03:59:30.149Z</updated>
+    <updated>2026-07-07T04:00:10.562Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/03/16/USAT/89176574007-vanity-fair-oscars-party-042.jpg?crop=3116,3117,x0,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
       
@@ -206,7 +206,7 @@
     <title><![CDATA[Aspen Acres Fire continues to burn in Colorado. See map]]></title>
     <link href="https://www.usatoday.com/story/news/nation/2026/07/06/aspen-acres-fire-colorado-map/90818449007/" />
     <id>https://www.usatoday.com/story/news/nation/2026/07/06/aspen-acres-fire-colorado-map/90818449007/</id>
-    <updated>2026-07-07T04:01:32.849Z</updated>
+    <updated>2026-07-07T04:00:21.692Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/06/USAT/90818475007-usatsi-29320962.jpg?crop=1600,1599,x799,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
       
@@ -217,7 +217,7 @@
     <title><![CDATA[Charlie Kirk murder trial key court hearing begins]]></title>
     <link href="https://www.usatoday.com/story/news/crime/2026/07/06/charlie-kirk-tyler-robinson-trial-preliminary-hearing/90770538007/" />
     <id>https://www.usatoday.com/story/news/crime/2026/07/06/charlie-kirk-tyler-robinson-trial-preliminary-hearing/90770538007/</id>
-    <updated>2026-07-07T04:00:47.802Z</updated>
+    <updated>2026-07-07T03:59:40.830Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2025/12/29/USAT/87946420007-20251211-t-231908-z-977410514-rc-2-jeia-1-lt-2-a-rtrmadp-3-usashootingkirk.JPG?crop=2400,2399,x180,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
       
