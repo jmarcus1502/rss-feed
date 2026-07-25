@@ -2,68 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>USAToday</title>
   <id>tag:usatoday</id>
-  <updated>2026-07-13T03:59:03.360Z</updated>
+  <updated>2026-07-22T04:01:30.578Z</updated>
   
-  <entry>
-    <title><![CDATA[A listening device in your neighborhood? It's a real controversy.]]></title>
-    <link href="https://www.usatoday.com/story/news/crime/2026/07/11/flock-gunshot-detector-privacy-concerns/90757260007/" />
-    <id>https://www.usatoday.com/story/news/crime/2026/07/11/flock-gunshot-detector-privacy-concerns/90757260007/</id>
-    <updated>2026-07-13T03:58:29.375Z</updated>
-    <summary type="html"><![CDATA[
-      <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/01/USAT/90766599007-1000001518.jpg?crop=1535,1535,x512,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
-      
-    ]]></summary>
-  </entry>
-
-  <entry>
-    <title><![CDATA[Witnesses dispute ICE account of immigrant's fatal shooting in Houston]]></title>
-    <link href="https://www.usatoday.com/story/news/nation/2026/07/10/ice-shooting-houston-lorenzo-salgado-araujo/90884045007/" />
-    <id>https://www.usatoday.com/story/news/nation/2026/07/10/ice-shooting-houston-lorenzo-salgado-araujo/90884045007/</id>
-    <updated>2026-07-13T04:00:40.377Z</updated>
-    <summary type="html"><![CDATA[
-      <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/10/USAT/90873713007-lorenzo-salgado-araujo.jpg?crop=1080,1079,x384,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
-      
-    ]]></summary>
-  </entry>
-
-  <entry>
-    <title><![CDATA[Concerned about FEMA? Call your congressperson.]]></title>
-    <link href="https://www.usatoday.com/videos/news/nation/2026/07/10/concerned-about-fema-call-your-congressperson/90883275007/" />
-    <id>https://www.usatoday.com/videos/news/nation/2026/07/10/concerned-about-fema-call-your-congressperson/90883275007/</id>
-    <updated>2026-07-13T03:58:51.107Z</updated>
-    <summary type="html"><![CDATA[
-      <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/10/USAT/90880024007-getty-images-1282387405.jpg?crop=3631,3630,x827,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
-      
-    ]]></summary>
-  </entry>
-
-  <entry>
-    <title><![CDATA[Missouri flash floods prompt search and rescue mission]]></title>
-    <link href="https://www.usatoday.com/story/news/nation/2026/07/10/missouri-flash-floods-leave-around-a-dozen-missing-from-campground/90880320007/" />
-    <id>https://www.usatoday.com/story/news/nation/2026/07/10/missouri-flash-floods-leave-around-a-dozen-missing-from-campground/90880320007/</id>
-    <updated>2026-07-13T03:58:05.136Z</updated>
-    <summary type="html"><![CDATA[
-      <img src="https://www.usatoday.com/gcdn/presto/2021/07/11/USAT/234eca10-2ae7-4f00-a647-be80855af5d7-MO-01.png?crop=2383,2383,x1504,y332&width=120&height=120&format=pjpg&auto=webp" /><br/>
-      
-    ]]></summary>
-  </entry>
-
-  <entry>
-    <title><![CDATA[4 key moments in the high-stakes Charlie Kirk murder hearing]]></title>
-    <link href="https://www.usatoday.com/story/news/crime/2026/07/10/charlie-kirk-murder-case-hearing-takeaways/90833777007/" />
-    <id>https://www.usatoday.com/story/news/crime/2026/07/10/charlie-kirk-murder-case-hearing-takeaways/90833777007/</id>
-    <updated>2026-07-13T04:00:30.913Z</updated>
-    <summary type="html"><![CDATA[
-      <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2025/12/11/USAT/87723047007-20251211-vpc-tyler-robinson-appears-in-court-thumb-reuters-pool-00-00-00-00-still-004.jpg?crop=1080,1079,x192,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
-      
-    ]]></summary>
-  </entry>
-
   <entry>
     <title><![CDATA[Girl, 3, bitten by rattlesnake hiding under Amazon package in yard]]></title>
     <link href="https://www.usatoday.com/story/news/nation/2026/07/21/rattlesnake-hiding-under-amazon-package-bites-girl-california/90998374007/" />
     <id>https://www.usatoday.com/story/news/nation/2026/07/21/rattlesnake-hiding-under-amazon-package-bites-girl-california/90998374007/</id>
-    <updated>2026-07-22T04:01:46.583Z</updated>
+    <updated>2026-07-22T03:58:03.727Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/21/USAT/90998498007-81198128.jpg?crop=2000,1999,x300,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
       
@@ -74,7 +19,7 @@
     <title><![CDATA[Feds seize hundreds of drones, prosecute pilots over World Cup flights]]></title>
     <link href="https://www.usatoday.com/story/news/nation/2026/07/21/feds-seize-hundreds-of-drones-prosecute-pilots-over-world-cup-flights/90981187007/" />
     <id>https://www.usatoday.com/story/news/nation/2026/07/21/feds-seize-hundreds-of-drones-prosecute-pilots-over-world-cup-flights/90981187007/</id>
-    <updated>2026-07-22T04:01:47.897Z</updated>
+    <updated>2026-07-22T03:58:29.034Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/21/USAT/90994265007-getty-images-2281181285.jpg?crop=3332,3332,x777,y1&width=120&height=120&format=pjpg&auto=webp" /><br/>
       
@@ -85,7 +30,7 @@
     <title><![CDATA[Carnival cruise guest hospitalized after rope swinging excursion]]></title>
     <link href="https://www.usatoday.com/story/news/nation/2026/07/21/carnival-cruise-guest-hospitalized-after-rope-swinging-excursion/90996832007/" />
     <id>https://www.usatoday.com/story/news/nation/2026/07/21/carnival-cruise-guest-hospitalized-after-rope-swinging-excursion/90996832007/</id>
-    <updated>2026-07-22T03:58:36.029Z</updated>
+    <updated>2026-07-22T04:01:44.570Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/21/USAT/90999056007-getty-images-183432335.jpg?crop=3418,3417,x589,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
       
@@ -96,7 +41,7 @@
     <title><![CDATA[See where Union Pacific's Big Boy train has been on tour this summer]]></title>
     <link href="https://www.usatoday.com/picture-gallery/news/nation/2026/07/21/union-pacific-big-boy-train-us-travel-photos/90998761007/" />
     <id>https://www.usatoday.com/picture-gallery/news/nation/2026/07/21/union-pacific-big-boy-train-us-travel-photos/90998761007/</id>
-    <updated>2026-07-22T03:59:33.595Z</updated>
+    <updated>2026-07-22T04:01:00.698Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/12/NBCT/90893483007-260711-big-boy-train-sm-001.JPG?crop=1862,1862,x100,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
       
@@ -107,9 +52,64 @@
     <title><![CDATA[Wreckage of 1952 Pan Am flight found in ocean nearly 75 years later]]></title>
     <link href="https://www.usatoday.com/story/news/nation/2026/07/21/lost-1952-pan-am-plane-found-puerto-rico-atlantic/90994132007/" />
     <id>https://www.usatoday.com/story/news/nation/2026/07/21/lost-1952-pan-am-plane-found-puerto-rico-atlantic/90994132007/</id>
-    <updated>2026-07-22T04:00:15.909Z</updated>
+    <updated>2026-07-22T03:59:26.027Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/21/USAT/90994763007-clipper-endeavor.png?crop=482,480,x116,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
+      
+    ]]></summary>
+  </entry>
+
+  <entry>
+    <title><![CDATA[Family of man shot by Madison police hire attorney Ben Crump]]></title>
+    <link href="https://www.usatoday.com/story/news/nation/2026/07/24/corey-ruiz-family-hires-ben-crump/91035360007/" />
+    <id>https://www.usatoday.com/story/news/nation/2026/07/24/corey-ruiz-family-hires-ben-crump/91035360007/</id>
+    <updated>2026-07-25T03:59:31.876Z</updated>
+    <summary type="html"><![CDATA[
+      <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/24/PMJS/91032169007-260723-news-corey-ruiz-vigil-p-1.jpg?crop=4248,4247,x543,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
+      
+    ]]></summary>
+  </entry>
+
+  <entry>
+    <title><![CDATA[Protests in Madison, Wisconsin after fatal police shooting of man]]></title>
+    <link href="https://www.usatoday.com/picture-gallery/news/nation/2026/07/24/protest-madison-police-shooting-corey-ruiz/91034257007/" />
+    <id>https://www.usatoday.com/picture-gallery/news/nation/2026/07/24/protest-madison-police-shooting-corey-ruiz/91034257007/</id>
+    <updated>2026-07-25T04:01:56.854Z</updated>
+    <summary type="html"><![CDATA[
+      <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/24/PMJS/91032529007-260723-news-corey-ruiz-vigil-p-16.jpg?crop=4530,4529,x1978,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
+      
+    ]]></summary>
+  </entry>
+
+  <entry>
+    <title><![CDATA[Teen pleads guilty to murder in Georgia mass school shooting]]></title>
+    <link href="https://www.usatoday.com/story/news/crime/2026/07/24/apalachee-high-school-shooting-colt-gray-plead-guilty/91033648007/" />
+    <id>https://www.usatoday.com/story/news/crime/2026/07/24/apalachee-high-school-shooting-colt-gray-plead-guilty/91033648007/</id>
+    <updated>2026-07-25T03:59:33.044Z</updated>
+    <summary type="html"><![CDATA[
+      <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/24/USAT/91036734007-gray-sentencing.png?crop=664,663,x52,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
+      
+    ]]></summary>
+  </entry>
+
+  <entry>
+    <title><![CDATA[America made a trillionaire. What does that tell us? | The Excerpt]]></title>
+    <link href="https://www.usatoday.com/story/news/nation/2026/07/24/america-made-a-trillionaire-what-does-that-tell-us-the-excerpt/91025429007/" />
+    <id>https://www.usatoday.com/story/news/nation/2026/07/24/america-made-a-trillionaire-what-does-that-tell-us-the-excerpt/91025429007/</id>
+    <updated>2026-07-25T04:00:20.247Z</updated>
+    <summary type="html"><![CDATA[
+      <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/23/USAT/91029303007-20230531-t-012257-z-963082393-rc-2-c-91-a-1-d-99-v-rtrmadp-3-muskchina.JPG?crop=3522,3521,x792,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
+      
+    ]]></summary>
+  </entry>
+
+  <entry>
+    <title><![CDATA[America made a trillionaire. What does that tell us?]]></title>
+    <link href="https://www.usatoday.com/videos/news/nation/2026/07/24/america-made-a-trillionaire-what-does-that-tell-us/91030893007/" />
+    <id>https://www.usatoday.com/videos/news/nation/2026/07/24/america-made-a-trillionaire-what-does-that-tell-us/91030893007/</id>
+    <updated>2026-07-25T04:01:02.639Z</updated>
+    <summary type="html"><![CDATA[
+      <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/23/USAT/91029303007-20230531-t-012257-z-963082393-rc-2-c-91-a-1-d-99-v-rtrmadp-3-muskchina.JPG?crop=3522,3521,x792,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
       
     ]]></summary>
   </entry>
@@ -118,7 +118,7 @@
     <title><![CDATA[Fatal Houston ICE shooting: Feds say van may have had drugs inside]]></title>
     <link href="https://www.usatoday.com/story/news/nation/2026/07/15/lorenzo-salgado-araujo-houston-ice-search-warrant-drugs/90936779007/" />
     <id>https://www.usatoday.com/story/news/nation/2026/07/15/lorenzo-salgado-araujo-houston-ice-search-warrant-drugs/90936779007/</id>
-    <updated>2026-07-16T04:01:59.845Z</updated>
+    <updated>2026-07-16T03:59:09.132Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/11/USAT/90886407007-2285393303.jpg?crop=4904,4903,x1231,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
       
@@ -129,7 +129,7 @@
     <title><![CDATA[Why this license plate is causing a stir in this retirement commnity]]></title>
     <link href="https://www.usatoday.com/story/news/nation/2026/07/15/florida-license-plate-woman-number/90932396007/" />
     <id>https://www.usatoday.com/story/news/nation/2026/07/15/florida-license-plate-woman-number/90932396007/</id>
-    <updated>2026-07-16T04:00:52.638Z</updated>
+    <updated>2026-07-16T04:00:59.067Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/15/USAT/90932950007-20260217-t-204051-z-1469550020-mt-1-usatoday-28261578-rtrmadp-3-aregistrationdecalcanbeseenonafloridalicenseplate.JPG?crop=3998,3998,x0,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
       
@@ -140,7 +140,7 @@
     <title><![CDATA[Toddler killed after 4-year-old finds gun in car on vacation]]></title>
     <link href="https://www.usatoday.com/story/news/crime/2026/07/15/4-year-old-shoots-kills-toddler-florida-georgia/90930883007/" />
     <id>https://www.usatoday.com/story/news/crime/2026/07/15/4-year-old-shoots-kills-toddler-florida-georgia/90930883007/</id>
-    <updated>2026-07-16T03:59:29.782Z</updated>
+    <updated>2026-07-16T04:01:19.265Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2023/10/05/USAT/71072277007-afp-afp-1-mr-16-c.JPG?crop=3577,3571,x0,y4&width=120&height=120&format=pjpg&auto=webp" /><br/>
       
@@ -151,7 +151,7 @@
     <title><![CDATA[Trump rechaza suspender las paradas de tráfico de ICE tras dos muertes]]></title>
     <link href="https://www.usatoday.com/story/news/nation/2026/07/15/cambiaran-tacticas-ice-trump-defiende-paradas-trafico/90930467007/" />
     <id>https://www.usatoday.com/story/news/nation/2026/07/15/cambiaran-tacticas-ice-trump-defiende-paradas-trafico/90930467007/</id>
-    <updated>2026-07-16T04:01:06.631Z</updated>
+    <updated>2026-07-16T04:00:45.949Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/14/USAT/90916141007-20260714-t-135345-z-1574578166-rc-2-ldmaguk-3-i-rtrmadp-3-usamigrationmaineshooting.JPG?crop=2886,2885,x202,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
       
@@ -162,7 +162,7 @@
     <title><![CDATA[Wildfire smoke from Canada affects the Northeast]]></title>
     <link href="https://www.usatoday.com/videos/news/nation/2026/07/15/see-impacts-of-canadian-wildfires-in-the-u-s/90932043007/" />
     <id>https://www.usatoday.com/videos/news/nation/2026/07/15/see-impacts-of-canadian-wildfires-in-the-u-s/90932043007/</id>
-    <updated>2026-07-16T04:00:25.186Z</updated>
+    <updated>2026-07-16T04:01:40.365Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/15/USAT/90932101007-trnd-northeast-wildfire-smoke.jpg?crop=603,603,x661,y53&width=120&height=120&format=pjpg&auto=webp" /><br/>
       
@@ -173,7 +173,7 @@
     <title><![CDATA[Some US cities reach record levels of hazardous air from wildfires]]></title>
     <link href="https://www.usatoday.com/story/news/nation/2026/07/17/wildfire-canada-record-air-hazard/90961056007/" />
     <id>https://www.usatoday.com/story/news/nation/2026/07/17/wildfire-canada-record-air-hazard/90961056007/</id>
-    <updated>2026-07-19T04:00:08.887Z</updated>
+    <updated>2026-07-19T03:58:49.253Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/17/USAT/90958801007-2286419463.jpg?crop=4201,4201,x2098,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
       
@@ -184,7 +184,7 @@
     <title><![CDATA[Tattoo company sues state officials over ban on tattooing face, neck]]></title>
     <link href="https://www.usatoday.com/story/news/nation/2026/07/17/ban-on-tattooing-face-neck-violates-first-amendment-lawsuit-says/90960648007/" />
     <id>https://www.usatoday.com/story/news/nation/2026/07/17/ban-on-tattooing-face-neck-violates-first-amendment-lawsuit-says/90960648007/</id>
-    <updated>2026-07-19T03:59:20.308Z</updated>
+    <updated>2026-07-19T04:00:31.412Z</updated>
     <summary type="html"><![CDATA[
       
       
@@ -195,7 +195,7 @@
     <title><![CDATA[Is running your AC unit amid bad air quality safe? What to know]]></title>
     <link href="https://www.usatoday.com/story/news/nation/2026/07/17/running-air-conditioning-amid-wildfires-safety-tips/90955593007/" />
     <id>https://www.usatoday.com/story/news/nation/2026/07/17/running-air-conditioning-amid-wildfires-safety-tips/90955593007/</id>
-    <updated>2026-07-19T03:58:24.318Z</updated>
+    <updated>2026-07-19T03:58:10.390Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/17/USAT/90958969007-getty-images-157191621.jpg?crop=2048,2047,x460,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
       
@@ -206,7 +206,7 @@
     <title><![CDATA[Is college still a smart investment?]]></title>
     <link href="https://www.usatoday.com/videos/news/nation/2026/07/17/is-college-still-a-smart-investment/90958293007/" />
     <id>https://www.usatoday.com/videos/news/nation/2026/07/17/is-college-still-a-smart-investment/90958293007/</id>
-    <updated>2026-07-19T03:59:53.563Z</updated>
+    <updated>2026-07-19T03:59:14.323Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/08/USAT/90853148007-20190516-t-073357-z-1874477826-mt-1-usatoday-12712074-rtrmadp-3-delawaretechnicalcommunitycollegestantonandgeorge.JPG?crop=2952,2951,x766,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
       
@@ -217,7 +217,7 @@
     <title><![CDATA[Family of man fatally shot by ICE speaks out: 'Devoted father']]></title>
     <link href="https://www.usatoday.com/story/news/nation/2026/07/17/ice-shooting-maine-family-johan-duran-guerrero/90954107007/" />
     <id>https://www.usatoday.com/story/news/nation/2026/07/17/ice-shooting-maine-family-johan-duran-guerrero/90954107007/</id>
-    <updated>2026-07-19T04:01:48.762Z</updated>
+    <updated>2026-07-19T03:58:09.570Z</updated>
     <summary type="html"><![CDATA[
       <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/17/USAT/90957293007-20260717-t-132556-z-764318449-mt-1-usatoday-29399726-rtrmadp-3-aphotographofjoansebastianguerreroduringavigil.JPG?crop=4000,3999,x1200,y0&width=120&height=120&format=pjpg&auto=webp" /><br/>
       
